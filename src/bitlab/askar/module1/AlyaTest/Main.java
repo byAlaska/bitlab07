@@ -10,6 +10,8 @@ public class Main {
 
         Scanner in = new Scanner(System.in);
 
+        System.out.println("HEllo");
+
 //        int choice = in.nextInt();
 //
 //        Car car;
